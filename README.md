@@ -43,7 +43,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,cpp,github,git,html,css,js,php,bootstrap,tailwind" />
-    <img src="https://skillicons.dev/icons?i=mysql,Laravel,vscode,react" />
+    <img src="https://skillicons.dev/icons?i=mysql,discord,vscode,react,laravel,npm,pycharm" />
 </div>
 
 <hr/>
