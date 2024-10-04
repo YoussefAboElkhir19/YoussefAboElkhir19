@@ -27,13 +27,13 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/youssefessam616/?hl=ar" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="30" width="40" />
   </a>
   <a href="mailto:essamy688@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="30" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="30" width="40" />
   </a>
   <a href="https://github.com/YoussefAboElkhir19" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="30" width="40" />
   </a>
 </p>
 
