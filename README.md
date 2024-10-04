@@ -31,7 +31,7 @@
     <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/youssef.essam.90281943" target="_blank" title="Facebook">
-    <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="youssefessam"  />
+    <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="youssefessam" height="40" width="80"  />
   </a>
   <a href="mailto:essamy688@gmail.com" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail"  />
