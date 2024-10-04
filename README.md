@@ -20,9 +20,6 @@
   <a href="https://www.linkedin.com/in/youssef-aboelkhir-440b5025a/" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/youssef.essam.90281943?locale=ar_AR" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=facebook" alt="Facebook"/>
-  </a>
   <a href="https://twitter.com/yourprofile" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
