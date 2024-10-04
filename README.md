@@ -16,21 +16,21 @@
 
 
 <h2 align="center">  Contact Me  </h2>
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+<p align="center" style="display: flex; justify-content: center; ">
   <a href="https://www.linkedin.com/in/youssef-aboelkhir-440b5025a/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/youssef.essam.90281943?locale=ar_AR" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=facebook" alt="Facebook"/>
   </a>
   <a href="https://twitter.com/yourprofile" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
   <a href="https://www.instagram.com/youssefessam616/?hl=ar" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="30" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   <a href="mailto:essamy688@gmail.com" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="30" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail"  />
   </a>
   <a href="https://github.com/YoussefAboElkhir19" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub"  />
