@@ -33,7 +33,7 @@
     <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="30" width="40" />
   </a>
   <a href="https://github.com/YoussefAboElkhir19" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="30" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub"  />
   </a>
 </p>
 
