@@ -15,7 +15,7 @@
 ---
 
 
-### Connect with me:
+<h2 align="center">  Contact Me  </h2>
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://www.linkedin.com/in/youssef-aboelkhir-440b5025a/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -42,8 +42,8 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,dart,express,nodejs,github,git,html,css,js,bootstrap,tailwind" />
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,postman,vscode,pytorch,tensorflow,flutter,react,linux,latex" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,github,git,html,css,js,php,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=mysql,Laravel,vscode,Herd,Wammp,react" />
 </div>
 
 <hr/>
