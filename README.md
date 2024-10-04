@@ -1,4 +1,3 @@
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SamyShaawat.visitor-badge&left_text=Profile%20Views%20" />
 
 <div  align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=YoussefAboElkhir19.visitor-badge&left_text=Profile%20Views%20" />
@@ -32,8 +31,8 @@
     <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/youssef.essam.90281943" target="_blank" title="Facebook">
-    <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="youssefessam" height="30" width="40" /></a>
-
+    <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="youssefessam"  />
+  </a>
   <a href="mailto:essamy688@gmail.com" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail"  />
   </a>
