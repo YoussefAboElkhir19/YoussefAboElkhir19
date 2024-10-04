@@ -1,3 +1,7 @@
+
+<div  align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YoussefAboElkhir19.visitor-badge&left_text=Profile%20Views%20" />
+</div>
 <h1 align="center" style="color:#2b6cb0;">Hi 👋, I'm Youssef Essam</h1>
 <h1 align="center" style="color:#2b6cb0;">✨ Computer Science ✨</h1>
 
@@ -25,6 +29,9 @@
   </a>
   <a href="https://www.instagram.com/youssefessam616/?hl=ar" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/youssef.essam.90281943?locale=ar_AR" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=instagram](https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="Facebook" />
   </a>
   <a href="mailto:essamy688@gmail.com" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail"  />
