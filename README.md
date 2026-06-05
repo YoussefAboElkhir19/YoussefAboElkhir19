@@ -24,12 +24,12 @@
   <a href="https://www.linkedin.com/in/youssef-aboelkhir-440b5025a/" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
+  <!-- <a href="https://twitter.com/yourprofile" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
   <a href="https://www.instagram.com/youssefessam616/?hl=ar" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
+  </a> -->
   <!-- <a href="https://www.facebook.com/youssef.essam.90281943" target="_blank" title="Facebook">
     <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="youssefessam" height="40" width="80"  />
   </a> -->
