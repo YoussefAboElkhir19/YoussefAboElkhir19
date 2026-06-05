@@ -12,9 +12,9 @@
 ---
 
 - 🌱 I’m currently learning **React, PHP, Laravel**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://youssefaboelkhir19.github.io/portofoliooo/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://youssefaboelkhir19.github.io/MyPortofolio/)
 - 📫 How to reach me **essamy688@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1gihffQJ029qOnLTm54rAWLs2vTOc0gp8/view?usp=drive_link)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1aRyGq52QULs0VGuyZBLv976gmBizB2tK/view?usp=sharing)
 
 ---
 
